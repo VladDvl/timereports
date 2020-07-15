@@ -1,0 +1,2 @@
+- Run file `index.php`.
+- MySQL database configuration is in `db_config.ini` file.
